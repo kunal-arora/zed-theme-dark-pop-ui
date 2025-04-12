@@ -22,16 +22,86 @@ A comfortable and visually appealing dark mode theme for [Zed](https://zed.dev).
 To enable the Pop UI Theme in Zed, follow these simple steps:
 
 1. **Open your user settings:**
-   Locate and open the settings file at `~/.config/zed/settings.json`.
+  Locate and open the settings file at `~/.config/zed/settings.json`.
 
 2. **Configure the theme settings:**
-   Add (or update) the following configuration to enable auto-switching between themes based on your system appearance:
 
-   ```json
-   {
-     "theme": {
-       "mode": "system",
-       "light": "macOS Classic Light",
-       "dark": "macOS Classic Dark"
-     }
-   }
+  ```json
+  {
+    "theme": "Dark Pop UI"
+  }
+  ```
+  or for soft dark mode:
+  ```json
+  {
+    "theme": "Soft Dark Pop UI"
+  }
+  ```
+
+More settings that I recommend:
+```json
+{
+  "theme": "Dark Pop UI",
+  "indent_guides": {
+    "enabled": true,
+    "coloring": "indent_aware"
+  },
+  "buffer_font_features": {
+    "calt": false,
+    "liga": false
+  },
+  "ui_font_size": 13,
+  "buffer_font_size": 12.0,
+  "cursor_blink": true,
+  "experimental.theme_overrides": {},
+  "git": {
+    "inline_blame": {
+      "enabled": true,
+      "min_column": 150
+    }
+  },
+  "assistant": {
+    "default_model": {
+      "provider": "copilot_chat",
+      "model": "claude-3-7-sonnet"
+    },
+    "version": "2",
+    "dock": "right",
+    "default_width": 180,
+    "button": true
+  },
+  "edit_predictions": {
+    "mode": "eager"
+  },
+  "features": {
+    "edit_prediction_provider": "copilot"
+  },
+  "show_edit_predictions": true,
+  "collaboration_panel": {
+    "dock": "right"
+  },
+  "project_panel": {
+    "indent_size": 12,
+    "show_hidden_files": true,
+    "show_ignored_files": true,
+    "show_warnings": true,
+    "show_errors": true
+  },
+  "terminal": {
+    "cursor_shape": "bar",
+    "blinking": "on",
+    "shell": "system",
+    "dock": "right",
+    "default_width": 180
+  },
+  "restore_on_startup": "last_session",
+  "preview_tabs": {
+    "enabled": true,
+    "enable_preview_from_code_navigation": true
+  },
+  "telemetry": {
+    "metrics": false,
+    "diagnostics": true
+  }
+}
+```
