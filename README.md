@@ -1,4 +1,4 @@
-# Pop UI Theme for Zed
+# Dark Pop UI Theme for Zed
 
 A comfortable and visually appealing dark mode theme for [Zed](https://zed.dev). Pop UI Theme is designed with clarity and minimalism in mind, providing a striking balance between aesthetics and usability. Whether you're coding late at night or prefer a soft look during the day, this theme adapts beautifully to your environment.
 
