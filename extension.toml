@@ -1,0 +1,7 @@
+id = "dark-pop-ui"
+name = "Dark Pop UI"
+version = "0.0.1"
+schema_version = 2
+authors = ["Kunal Arora <kunal_arora@live.com>"]
+description = "A delightful dark theme with a colorful pop, designed for a comfortable dark mode experience."
+repository = "https://github.com/kunal-arora/zed-theme-dark-pop-ui"
