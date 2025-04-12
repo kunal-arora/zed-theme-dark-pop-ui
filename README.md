@@ -12,12 +12,10 @@ A comfortable and visually appealing dark mode theme for [Zed](https://zed.dev).
 ## Screenshots
 
 ### Dark Mode
-<img width="1918" alt="Screenshot 2025-04-12 at 5 18 19 PM" src="https://github.com/user-attachments/assets/1a23dd30-3a26-44f1-a9fb-4c0315597bd9" />
-
-
-### Soft Dark Mode
 <img width="1918" alt="Screenshot 2025-04-12 at 5 18 07 PM" src="https://github.com/user-attachments/assets/c63c0835-f1b0-466b-8d78-92224aff9bca" />
 
+### Soft Dark Mode
+<img width="1918" alt="Screenshot 2025-04-12 at 5 18 19 PM" src="https://github.com/user-attachments/assets/1a23dd30-3a26-44f1-a9fb-4c0315597bd9" />
 
 ## Installation & Usage
 
