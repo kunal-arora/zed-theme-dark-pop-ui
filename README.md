@@ -6,7 +6,6 @@ A comfortable and visually appealing dark mode theme for [Zed](https://zed.dev).
 
 - **Elegant Dark Mode:** A sleek, high-contrast color palette to reduce eye strain.
 - **Soft Dark Option:** A gentler version for users who prefer a less intense display.
-- **System-Aware Appearance:** Automatically switches themes based on your system's light/dark mode preferences.
 - **Optimized for Clarity:** Enhance code readability and create an immersive coding environment.
 
 ## Screenshots
