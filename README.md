@@ -1,6 +1,6 @@
 # 🎨 Dark Pop UI Theme for Zed
 
-> A clean, contrast-rich dark theme for [Zed](https://zed.dev), designed to balance aesthetics and readability — with a soft mode for those long coding sessions. Built by devs, for devs.
+> A clean, contrast-rich dark theme for [Zed](https://zed.dev), designed to balance aesthetics and readability — with a soft mode for those long coding sessions.
 
 ---
 
